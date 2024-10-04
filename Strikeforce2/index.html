@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset='utf8'>
+    </head>
+    <body>
+        <div id='ruffle'></div>
+        <script>
+            window.RufflePlayer = window.RufflePlayer || {};
+            window.addEventListener("DOMContentLoaded", () => {
+                let ruffle = window.RufflePlayer.newest();
+                let player = ruffle.createPlayer();
+                let container = document.getElementById("container");
+            container.appendChild(player);
+        });
+        </script>
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+        <object width="600" height="400">
+            <param name="movie" value="strike-force-heroes-2.swf">
+            <embed src="strike-force-heroes-2.swf" />
+        </object>
+        <p>(:</p>
+    </body>
+</html>
