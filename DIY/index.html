@@ -5,6 +5,20 @@
         color: white;
         font-family: Arial, sans-serif;
     }
+
+    button {
+        background-color: #444;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-top: 20px;
+    }
+
+    button:hover {
+        background-color: #666;
+    }
 </style>
 
 <html>
@@ -14,6 +28,7 @@
     <body>
         <div id='ruffle'></div>
         <input type="file" id="fileInput" accept=".swf" style="display: none;" />
+        <button id="uploadButton">Upload SWF File</button>
         <script>
             window.RufflePlayer = window.RufflePlayer || {};
             window.addEventListener("DOMContentLoaded", () => {
@@ -23,9 +38,12 @@
                 container.appendChild(player);
 
                 const fileInput = document.getElementById("fileInput");
+                const uploadButton = document.getElementById("uploadButton");
 
-                // Trigger file input dialog on page load
-                fileInput.click();
+                // Trigger file input dialog when the button is clicked
+                uploadButton.addEventListener("click", () => {
+                    fileInput.click();
+                });
 
                 fileInput.addEventListener("change", (event) => {
                     const file = event.target.files[0];
