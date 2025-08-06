@@ -26,18 +26,39 @@
 </head>
 <body>
     <div id="containfile"></div>
+    <input type="text" id="searchInput" placeholder="Search SWF files..." style="margin: 10px; padding: 5px; width: 300px;">
     <select id="fileSelector">
         <option value="blank">No File</option>
-        <option value="age-of-war-6165ed4.swf">Age of War 1</option>
-        <option value="age-of-war-2-5933395b.swf">Age of War 2</option>
-        <option value="flash_therightmix.swf">The Right Mix</option>
-        <option value="bigbattletanks.swf">Big Battle Tanks</option>
-        <option value="bob-the-robber-12369fdd9.swf">Bob The Robber</option>
     </select>
 
-
-
     <script>
+        let allFiles = [];
+
+        // Populate dropdown from swf_list.json
+        fetch('swf_list.json')
+            .then(res => res.json())
+            .then(files => {
+                allFiles = files;
+                updateDropdown(files);
+            });
+
+        function updateDropdown(files) {
+            const selector = document.getElementById('fileSelector');
+            selector.innerHTML = '<option value="blank">No File</option>';
+            files.forEach(item => {
+                const opt = document.createElement('option');
+                opt.value = item.file;
+                opt.textContent = item.name;
+                selector.appendChild(opt);
+            });
+        }
+
+        document.getElementById('searchInput').addEventListener('input', function() {
+            const query = this.value.toLowerCase();
+            const filtered = allFiles.filter(item => item.name.toLowerCase().includes(query));
+            updateDropdown(filtered);
+        });
+
         window.RufflePlayer = window.RufflePlayer || {};
         window.addEventListener("load", () => {
             const ruffle = window.RufflePlayer.newest();
