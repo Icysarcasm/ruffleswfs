@@ -3,38 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ruffle Flash Player</title>
-    <script src="ruffle/ruffle.js"></script>
+    <title>Icy's Ruffle Pile</title>
+    <script src="ruffle.js"></script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background: #222;
+        }
+        #containfile {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 450px;
+            min-width: 450px;
+        }
+    </style>
 </head>
 <body>
-    <div id="container"></div>
+    <div id="containfile"></div>
     <select id="fileSelector">
         <option value="blank">No File</option>
         <option value="age-of-war-6165ed4.swf">Age of War 1</option>
-        <option value="file2.swf">Age of War 2</option>
-    
+        <option value="age-of-war-2-5933395b.swf">Age of War 2</option>
     </select>
+
+
 
     <script>
         window.RufflePlayer = window.RufflePlayer || {};
         window.addEventListener("load", () => {
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
-            const container = document.getElementById("container");
+            player.style.width = "600px";
+            player.style.height = "400px";
+            const container = document.getElementById("containfile");
+            container.appendChild(player);
             const fileSelector = document.getElementById("fileSelector");
 
-            // Load the selected file when an option is chosen
             fileSelector.addEventListener("change", () => {
                 const selectedFile = fileSelector.value;
-                player.load({
-                    url: selectedFile,
-                    backgroundColor: "#000",
-                });
+                if (selectedFile !== "blank") {
+                    player.load({
+                        url: selectedFile,
+                        backgroundColor: "#000",
+                    });
+                } else {
+                    player.stop();
+                }
             });
-
-            container.appendChild(player);
-            player.style.width = "450px";
-            player.style.height = "450px";
         });
     </script>
 </body>
