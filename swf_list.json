@@ -1,290 +1,291 @@
 [
   {
     "file": "SWF/369800_bubble_tanks_1_1.swf",
-    "name": "369800_bubble_tanks_1_1.swf"
+    "name": "Bubble Tanks 1"
   },
   {
     "file": "SWF/452123_bubble_tanks_2_1.swf",
-    "name": "452123_bubble_tanks_2_1.swf"
-  },
-  {
-    "file": "SWF/BubbleTanksTD2.swf",
-    "name": "BubbleTanksTD2.swf"
-  },
-  {
-    "file": "SWF/BubbleTanksTowerDefense.swf",
-    "name": "BubbleTanksTowerDefense.swf"
-  },
-  {
-    "file": "SWF/FireBoyAndWaterGirl.swf",
-    "name": "FireBoyAndWaterGirl.swf"
-  },
-  {
-    "file": "SWF/FireBoyAndWaterGirlLT.swf",
-    "name": "FireBoyAndWaterGirlLT.swf"
-  },
-  {
-    "file": "SWF/MaD2.swf",
-    "name": "MaD2.swf"
-  },
-  {
-    "file": "SWF/PapaLouie2.swf",
-    "name": "PapaLouie2.swf"
-  },
-  {
-    "file": "SWF/PapaLouie3.swf",
-    "name": "PapaLouie3.swf"
-  },
-  {
-    "file": "SWF/SSF2Beta_v1_2_0_0b.swf",
-    "name": "SSF2Beta_v1_2_0_0b.swf"
-  },
-  {
-    "file": "SWF/The Binding of Isaac.swf",
-    "name": "The Binding of Isaac.swf"
-  },
-  {
-    "file": "SWF/a-bonte-christmas-157868a62.swf",
-    "name": "a-bonte-christmas-157868a62.swf"
-  },
-  {
-    "file": "SWF/age-of-war-2-5933395b.swf",
-    "name": "age-of-war-2-5933395b.swf"
-  },
-  {
-    "file": "SWF/age-of-war-6165ed4.swf",
-    "name": "age-of-war-6165ed4.swf"
-  },
-  {
-    "file": "SWF/bigbattletanks.swf",
-    "name": "bigbattletanks.swf"
-  },
-  {
-    "file": "SWF/bloons-2.swf",
-    "name": "bloons-2.swf"
-  },
-  {
-    "file": "SWF/bloons.swf",
-    "name": "bloons.swf"
-  },
-  {
-    "file": "SWF/bloonstd2.swf",
-    "name": "bloonstd2.swf"
-  },
-  {
-    "file": "SWF/bloonstd3.swf",
-    "name": "bloonstd3.swf"
-  },
-  {
-    "file": "SWF/bloonstd_moved.swf",
-    "name": "bloonstd_moved.swf"
-  },
-  {
-    "file": "SWF/bob-the-robber-12369fdd9.swf",
-    "name": "bob-the-robber-12369fdd9.swf"
-  },
-  {
-    "file": "SWF/btd5-dat.swf",
-    "name": "btd5-dat.swf"
+    "name": "Bubble Tanks 2"
   },
   {
     "file": "SWF/bubble-tanks-3.swf",
-    "name": "bubble-tanks-3.swf"
+    "name": "Bubble Tanks 3"
+  },
+   {
+    "file": "SWF/BubbleTanksTowerDefense.swf",
+    "name": "Bubble Tanks Tower Defense"
+  },
+  {
+    "file": "SWF/BubbleTanksTD2.swf",
+    "name": "Bubble Tanks Tower Defense 2"
+  },
+ 
+  {
+    "file": "SWF/FireBoyAndWaterGirl.swf",
+    "name": "Fire Boy And Water Girl"
+  },
+  {
+    "file": "SWF/FireBoyAndWaterGirlLT.swf",
+    "name": "Fire Boy And Water Girl Lost Temple.swf"
+  },
+  {
+    "file": "SWF/MaD2.swf",
+    "name": "Mutilate a Doll 2"
+  },
+    {
+    "file": "SWF/papalouie_v2.swf",
+    "name": "Papa Louie"
+  },
+  {
+    "file": "SWF/PapaLouie2.swf",
+    "name": "Papa Louie 2.swf"
+  },
+  {
+    "file": "SWF/PapaLouie3.swf",
+    "name": "Papa Louie 3.swf"
+  },
+  {
+    "file": "SWF/SSF2Beta_v1_2_0_0b.swf",
+    "name": "Super Smash Flash 2"
+  },
+  {
+    "file": "SWF/The Binding of Isaac.swf",
+    "name": "The Binding of Isaac"
+  },
+  {
+    "file": "SWF/a-bonte-christmas-157868a62.swf",
+    "name": "A Bonte Christmas"
+  },
+  {
+    "file": "SWF/age-of-war-6165ed4.swf",
+    "name": "Age of War"
+  },
+  {
+    "file": "SWF/age-of-war-2-5933395b.swf",
+    "name": "Age of War 2"
+  },
+  {
+    "file": "SWF/bigbattletanks.swf",
+    "name": "Big Battle Tanks"
+  },
+  {
+    "file": "SWF/bloons.swf",
+    "name": "Bloons"
+  },
+  {
+    "file": "SWF/bloons-2.swf",
+    "name": "Bloons 2"
+  },
+  {
+    "file": "SWF/bloonstd_moved.swf",
+    "name": "Bloons TD"
+  },
+  {
+    "file": "SWF/bloonstd2.swf",
+    "name": "Bloons TD 2"
+  },
+  {
+    "file": "SWF/bloonstd3.swf",
+    "name": "Bloons TD 3"
+  },
+  {
+    "file": "SWF/btd5-dat.swf",
+    "name": "Bloons TD 5"
+  },
+  {
+    "file": "SWF/bob-the-robber-12369fdd9.swf",
+    "name": "Bob the Robber"
   },
   {
     "file": "SWF/cactusmccoy.swf",
-    "name": "cactusmccoy.swf"
+    "name": "Cactus McCoy"
   },
   {
     "file": "SWF/cactusmccoy2.swf",
-    "name": "cactusmccoy2.swf"
+    "name": "Cactus McCoy 2"
   },
   {
     "file": "SWF/defend-your-nuts-12144fdd9.swf",
-    "name": "defend-your-nuts-12144fdd9.swf"
+    "name": "Defend Your Nuts"
   },
   {
     "file": "SWF/desktop-tower-defens-1128817f.swf",
-    "name": "desktop-tower-defens-1128817f.swf"
-  },
-  {
-    "file": "SWF/doodle-god-2-11411ec92.swf",
-    "name": "doodle-god-2-11411ec92.swf"
+    "name": "Desktop TD"
   },
   {
     "file": "SWF/doodle-god-6313395b.swf",
-    "name": "doodle-god-6313395b.swf"
+    "name": "Doodle God"
+  },
+  {
+    "file": "SWF/doodle-god-2-11411ec92.swf",
+    "name": "Doodle God 2"
   },
   {
     "file": "SWF/ducklife.swf",
-    "name": "ducklife.swf"
+    "name": "Duck Life"
   },
   {
     "file": "SWF/ducklife2.swf",
-    "name": "ducklife2.swf"
+    "name": "Duck Life 2"
   },
   {
     "file": "SWF/earntodie.swf",
-    "name": "earntodie.swf"
+    "name": "Earn to Die"
   },
   {
     "file": "SWF/earntodie2.swf",
-    "name": "earntodie2.swf"
-  },
-  {
-    "file": "SWF/ib2.swf",
-    "name": "ib2.swf"
-  },
-  {
-    "file": "SWF/infectonator-2-131503467.swf",
-    "name": "infectonator-2-131503467.swf"
-  },
-  {
-    "file": "SWF/infectonator-50209cba.swf",
-    "name": "infectonator-50209cba.swf"
-  },
-  {
-    "file": "SWF/infectonator-world-d-53499cba.swf",
-    "name": "infectonator-world-d-53499cba.swf"
+    "name": "Earn to Die 2"
   },
   {
     "file": "SWF/interactive_buddy_v_1_02_by_shock_value_d6ma8m.swf",
-    "name": "interactive_buddy_v_1_02_by_shock_value_d6ma8m.swf"
+    "name": "Interactive Buddy"
+  },
+  {
+    "file": "SWF/ib2.swf",
+    "name": "Interactive Buddy 2 BETA"
+  },
+  {
+    "file": "SWF/infectonator-50209cba.swf",
+    "name": "Infectanator"
+  },
+  {
+    "file": "SWF/infectonator-2-131503467.swf",
+    "name": "Infectanator 2"
+  },
+  {
+    "file": "SWF/infectonator-world-d-53499cba.swf",
+    "name": "Infectanator World"
   },
   {
     "file": "SWF/jacksmith.swf",
-    "name": "jacksmith.swf"
+    "name": "Jacksmith"
   },
   {
     "file": "SWF/johnnyupgrade.swf",
-    "name": "johnnyupgrade.swf"
+    "name": "Johnny Upgrade"
   },
   {
     "file": "SWF/learn-to-fly-3-17987d62f.swf",
-    "name": "learn-to-fly-3-17987d62f.swf"
+    "name": "Learn to Fly 3"
   },
   {
     "file": "SWF/motherload.swf",
-    "name": "motherload.swf"
+    "name": "Motherload"
   },
   {
     "file": "SWF/my-friend-pedro-1598012ef.swf",
-    "name": "my-friend-pedro-1598012ef.swf"
+    "name": "My Friend Pedro"
   },
   {
     "file": "SWF/ngame.swf",
-    "name": "ngame.swf"
-  },
-  {
-    "file": "SWF/papalouie_v2.swf",
-    "name": "papalouie_v2.swf"
+    "name": "N"
   },
   {
     "file": "SWF/papasbakeria.swf",
-    "name": "papasbakeria.swf"
+    "name": "Papa's Bakeria"
   },
   {
     "file": "SWF/papasburgeria.swf",
-    "name": "papasburgeria.swf"
+    "name": "Papa's Burgeria"
   },
   {
     "file": "SWF/papascheeseria_102.swf",
-    "name": "papascheeseria_102.swf"
+    "name": "Papa's Cheeseria"
   },
   {
     "file": "SWF/papascupcakeria.swf",
-    "name": "papascupcakeria.swf"
+    "name": "Papa's Cupcakeria"
   },
   {
     "file": "SWF/papasdonuteria.swf",
-    "name": "papasdonuteria.swf"
+    "name": "Papa's Donuteria"
   },
   {
     "file": "SWF/papasfreezeria.swf",
-    "name": "papasfreezeria.swf"
+    "name": "Papa's Freezeria"
   },
   {
     "file": "SWF/papashotdoggeria.swf",
-    "name": "papashotdoggeria.swf"
+    "name": "Papa's Hotdoggeria"
   },
   {
     "file": "SWF/papaspancakeria.swf",
-    "name": "papaspancakeria.swf"
+    "name": "Papa's Pancakeria"
   },
   {
     "file": "SWF/papaspastaria.swf",
-    "name": "papaspastaria.swf"
+    "name": "Papa's Pasteria"
   },
   {
     "file": "SWF/papaspizzeria_v2.swf",
-    "name": "papaspizzeria_v2.swf"
+    "name": "Papa's Pizzaria"
   },
   {
     "file": "SWF/papasscooperia_v102.swf",
-    "name": "papasscooperia_v102.swf"
+    "name": "Papa's Scooperia"
   },
   {
     "file": "SWF/papassushiria.swf",
-    "name": "papassushiria.swf"
+    "name": "Papa's Sushiria"
   },
   {
     "file": "SWF/papastacomia.swf",
-    "name": "papastacomia.swf"
+    "name": "Papa's Taco Mia"
   },
   {
     "file": "SWF/papaswingeria.swf",
-    "name": "papaswingeria.swf"
+    "name": "Papa's Wingeria"
   },
   {
     "file": "SWF/run1.swf",
-    "name": "run1.swf"
+    "name": "Run"
   },
   {
     "file": "SWF/run2.swf",
-    "name": "run2.swf"
+    "name": "Run 2"
   },
   {
     "file": "SWF/run3.swf",
-    "name": "run3.swf"
+    "name": "Run 3"
   },
   {
     "file": "SWF/stickrpg.swf",
-    "name": "stickrpg.swf"
-  },
-  {
-    "file": "SWF/strike-force-heroes-2.swf",
-    "name": "strike-force-heroes-2.swf"
+    "name": "Stick RPG"
   },
   {
     "file": "SWF/strikeforceheroes.swf",
-    "name": "strikeforceheroes.swf"
+    "name": "Strike Force Heroes"
+  },
+  {
+    "file": "SWF/strike-force-heroes-2.swf",
+    "name": "Strike Force Heroes 2"
   },
   {
     "file": "SWF/strikeforceheroes2hack.swf",
-    "name": "strikeforceheroes2hack.swf"
+    "name": "Strike Force Heroes 2 HKD"
   },
   {
     "file": "SWF/superfighters.swf",
-    "name": "superfighters.swf"
-  },
-  {
-    "file": "SWF/sushi-cat-2.swf",
-    "name": "sushi-cat-2.swf"
-  },
-  {
-    "file": "SWF/sushi-cat-a-pult.swf",
-    "name": "sushi-cat-a-pult.swf"
+    "name": "SuperFighters"
   },
   {
     "file": "SWF/sushicat.swf",
-    "name": "sushicat.swf"
+    "name": "Sushicat"
+  },
+  {
+    "file": "SWF/sushi-cat-2.swf",
+    "name": "Sushicat 2"
+  },
+  {
+    "file": "SWF/sushi-cat-a-pult.swf",
+    "name": "Sushi Cat-a-Pult"
   },
   {
     "file": "SWF/water_ragdoll.swf",
-    "name": "water_ragdoll.swf"
+    "name": "Water Ragdoll"
   },
   {
     "file": "SWF/water_ragdoll_2.swf",
-    "name": "water_ragdoll_2.swf"
+    "name": "Water Ragdoll 2"
   }
 ]
